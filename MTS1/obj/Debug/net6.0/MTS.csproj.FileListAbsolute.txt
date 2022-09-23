@@ -1,0 +1,15 @@
+C:\Users\vladi\source\repos\MTS\MTS\bin\Debug\net6.0\MTS.exe
+C:\Users\vladi\source\repos\MTS\MTS\bin\Debug\net6.0\MTS.deps.json
+C:\Users\vladi\source\repos\MTS\MTS\bin\Debug\net6.0\MTS.runtimeconfig.json
+C:\Users\vladi\source\repos\MTS\MTS\bin\Debug\net6.0\MTS.dll
+C:\Users\vladi\source\repos\MTS\MTS\bin\Debug\net6.0\MTS.pdb
+C:\Users\vladi\source\repos\MTS\MTS\obj\Debug\net6.0\MTS.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\MTS\MTS\obj\Debug\net6.0\MTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\source\repos\MTS\MTS\obj\Debug\net6.0\MTS.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\MTS\MTS\obj\Debug\net6.0\MTS.AssemblyInfo.cs
+C:\Users\vladi\source\repos\MTS\MTS\obj\Debug\net6.0\MTS.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\MTS\MTS\obj\Debug\net6.0\MTS.dll
+C:\Users\vladi\source\repos\MTS\MTS\obj\Debug\net6.0\refint\MTS.dll
+C:\Users\vladi\source\repos\MTS\MTS\obj\Debug\net6.0\MTS.pdb
+C:\Users\vladi\source\repos\MTS\MTS\obj\Debug\net6.0\MTS.genruntimeconfig.cache
+C:\Users\vladi\source\repos\MTS\MTS\obj\Debug\net6.0\ref\MTS.dll

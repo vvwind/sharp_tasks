@@ -1,0 +1,15 @@
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\bin\Debug\net6.0\MTS2.exe
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\bin\Debug\net6.0\MTS2.deps.json
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\bin\Debug\net6.0\MTS2.runtimeconfig.json
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\bin\Debug\net6.0\MTS2.dll
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\bin\Debug\net6.0\MTS2.pdb
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\obj\Debug\net6.0\MTS2.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\obj\Debug\net6.0\MTS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\obj\Debug\net6.0\MTS2.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\obj\Debug\net6.0\MTS2.AssemblyInfo.cs
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\obj\Debug\net6.0\MTS2.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\obj\Debug\net6.0\MTS2.dll
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\obj\Debug\net6.0\refint\MTS2.dll
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\obj\Debug\net6.0\MTS2.pdb
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\obj\Debug\net6.0\MTS2.genruntimeconfig.cache
+C:\Users\vladi\source\repos\MTS\MTS2\MTS2\MTS2\obj\Debug\net6.0\ref\MTS2.dll
